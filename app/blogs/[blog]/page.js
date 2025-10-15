@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 const page = props => {
   return (
-    <div>page</div>
+    <div>page1</div>
   )
 }
 

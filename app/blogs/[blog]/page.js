@@ -1,12 +1,9 @@
-import React from 'react'
-import PropTypes from 'prop-types'
+export default async function blog({param}){
+    console.log(await param)
 
-const page = props => {
-  return (
-    <div>page1</div>
-  )
+    return(
+        <>
+
+        </>
+    )
 }
-
-page.propTypes = {}
-
-export default page

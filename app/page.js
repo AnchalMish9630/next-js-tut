@@ -8,6 +8,7 @@ export default function Home() {
     Welcome to next
     <Link href="/about" >  About</Link>
     <Link href="/service" >  Service</Link>
+    <Link href="/blogs" >  Blogs</Link>
    </div>
   );
  
